@@ -2,8 +2,7 @@
 //  ViewController.h
 //  NYXImageKitDemo
 //
-//  Created by 修一 堤 on 12/03/12.
-//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Shuichi Tsutsumi. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
